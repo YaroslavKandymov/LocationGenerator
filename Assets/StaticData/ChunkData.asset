@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f47e36d8a825405b8530c5f6ab05187c, type: 3}
+  m_Name: ChunkData
+  m_EditorClassIdentifier: 
+  _ground: {fileID: 5131198743372132549, guid: 87843f0eb7fb77e42abfaabb10443a0a, type: 3}
+  _wall: {fileID: 6201833727391586776, guid: 481ce9008842d6e408ee7bf03b8e588b, type: 3}
+  _obstaclesData: {fileID: 11400000, guid: 1baac90eb6051fd4ca9e7bd44af302f8, type: 2}
+  _decorativeElements: {fileID: 11400000, guid: f9e31fe77d6919f41932d14ea92b9961, type: 2}
+  _size: 10
+  _cellSize: 1
+  _offset: 0.5

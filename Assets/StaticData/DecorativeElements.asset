@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3813903672d42778bd7230cf3fcae12, type: 3}
+  m_Name: DecorativeElements
+  m_EditorClassIdentifier: 
+  _gridObjects:
+  - {fileID: -3985113274826470525, guid: d08851aeacbadfa42a2b661f2170de25, type: 3}
+  - {fileID: -8508834106328115783, guid: 967e41698de928e4c80fc36cc7741738, type: 3}
+  - {fileID: 6074628589671842770, guid: f0e640d23a5c7c24e8c0100f0a558da4, type: 3}
